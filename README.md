@@ -20,7 +20,7 @@ Script ini di gunakan untuk scraping nama mahasiswa dan jenis kelamin dari laman
 Proses Running Script
 ![alt text](pict/3.png)
 Hasil output dalam csv
-![alt text](pict/3.png)
+![alt text](pict/4.png)
 
 ## Acknowledgments
 * Bisa digunakan untuk membuat model gender classification based on name in Indonesia
