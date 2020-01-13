@@ -1,1 +1,1001 @@
 ,nama,gender
+0,ASTERIA DIANTIKA,Perempuan
+1,BUDI MARTONO,Laki-laki
+2,DAHYAR D,Laki-laki
+3,"DRS M UHAIB AS AD,MSI",Laki-laki
+4,"DRS PAUL R SIMAMORA, MSI",Laki-laki
+5,"DRS ZAINAL ABIDIN, MSI",Laki-laki
+6,FIRMAN HADI RIVAI,Laki-laki
+7,H RAHMADI HN,Laki-laki
+8,IDHAM IBTY,Laki-laki
+9,M BARIT RAYANTO,Laki-laki
+10,M RIBAN SATIA,Laki-laki
+11,MARLAN HUTAHAEAN,Laki-laki
+12,MUCHLIS ARI HAMDY,Laki-laki
+13,Raden Muhammad Agung Harimurti Purnomojati,Laki-laki
+14,"SJAFRI ADNAN BAHARUDIN,AK,MBA",Laki-laki
+15,TRI SAKSONO,Laki-laki
+16,"TRI WIDODO WAHYU UTOMO, SH,MA",Laki-laki
+17,WAHYU RIAWANTI,Perempuan
+18,WISNU UTOMO,Laki-laki
+19,A ZAINI DAHLAN,Laki-laki
+20,ABDUL FADHIL,Laki-laki
+21,ABDURRAHMAN MOH FACHIR,Laki-laki
+22,Abraham Silo Wilar,Laki-laki
+23,ABU SUFYAN,Laki-laki
+24,AGUSTINUS SUGENG PRIYANTO,Laki-laki
+25,AHMAD SAHIDE,Laki-laki
+26,AHMED SABER ABD ALLAH AWAD,Laki-laki
+27,AKHMAD SANGID,Laki-laki
+28,AL HUSAINI M DAUD,Laki-laki
+29,ALFRED CATALUNA MORALES,Laki-laki
+30,Ali Imron,Laki-laki
+31,ANDI HASRIANI,Perempuan
+32,ANDREAS JONATHAN,Laki-laki
+33,ARY BUDIYANTO,Laki-laki
+34,AYI YUNUS RUSYANA,Laki-laki
+35,Benny Baskara,Laki-laki
+36,BURHANUDIN SANUSI,Laki-laki
+37,CUT MITA,Perempuan
+38,DANIAL,Laki-laki
+39,ABDULRAHMAN HAMADOUN,Laki-laki
+40,AGUSTINA NURUL HIDAYATI,Perempuan
+41,AHDA MULYATI,Perempuan
+42,AL ASWAD,Laki-laki
+43,AL BUSYRA FUADI,Laki-laki
+44,Alfini Baharuddin,Perempuan
+45,Antonius Ardiyanto,Laki-laki
+46,BANI NOOR MUCHAMAD,Laki-laki
+47,CUT NURAINI,Perempuan
+48,Dyah Titisari Widyastuti,Perempuan
+49,EMRIZAL,Laki-laki
+50,Hadi Wahyono,Laki-laki
+51,HARTAWAN,Laki-laki
+52,HERI HERMANTO,Laki-laki
+53,I GUSTI NGURAH TRIADIPUTRA,Laki-laki
+54,I Gusti Ngurah Wiras Hardy,Laki-laki
+55,Imam Indratno,Laki-laki
+56,INA HELENA AGUSTINA,Perempuan
+57,IRA MENTAYANI,Perempuan
+58,Irwan Yudha Hadinata,Laki-laki
+59,Achmad Amzeri,Laki-laki
+60,Alin Liana,Perempuan
+61,Andiyatu,Perempuan
+62,Awik Puji Dyah Nurhayati,Perempuan
+63,Bambang Irawan,Laki-laki
+64,EKO AGUS SUYONO,Laki-laki
+65,Elizabeth Betty Elok Kristiani,Perempuan
+66,Elvi Rusmiyanto Pancaning Wardoyo,Laki-laki
+67,Endah Retnaningrum,Perempuan
+68,ENDANG ARIYANI S,Perempuan
+69,ENDANG SAPTININGSIH,Perempuan
+70,Ervina Indrayani,Perempuan
+71,EVELIN TUHUMURI,Perempuan
+72,Fransiscus Xaverius Sudaryanto,Laki-laki
+73,Hanna Sientje Irma Kawulur,Perempuan
+74,Harlita,Perempuan
+75,Idramsa,Laki-laki
+76,IGN HARDANINGSIH,Laki-laki
+77,Ignatius Joko Suyono,Laki-laki
+78,Karyadi Baskoro,Laki-laki
+79,ARDIANSYAH,Laki-laki
+80,ARIANI HATMANTI,Perempuan
+81,ASIH KURNIAWATI,Perempuan
+82,BERNADETTA OCTAVIA,Perempuan
+83,Camelia Herdini,Perempuan
+84,CITRA DEWI FEBRIANI,Perempuan
+85,DENY SUPRIHARTI,Perempuan
+86,DYAH RATNA BUDIANI,Perempuan
+87,Elisa Nurnawati,Perempuan
+88,ENDANG ASTUTI,Perempuan
+89,ENDAR MARRASKURANTO,Laki-laki
+90,Exsyupransia Mursyanti,Perempuan
+91,HERMIN SUSILOWATI,Perempuan
+92,Ixora Sartika Mercuriani,Perempuan
+93,Jasman,Laki-laki
+94,JOKO TRIYONO,Laki-laki
+95,Margaretha Maria Alacoque Retno Rosariastuti,Perempuan
+96,MARIA GORETI WIDIASTUTI,Perempuan
+97,MOCHAMMAD TAHA MA'RUF,Laki-laki
+98,NARENDRA YOGA HENDARTA,Laki-laki
+99,SONJORURI BUDIANI T,Perempuan
+100,ABDUL ROUF,Laki-laki
+101,AGUS SUPRIYANTO,Laki-laki
+102,ANDREAS SETIAWAN,Laki-laki
+103,ARTONO DWIJO SUTOMO,Laki-laki
+104,BAMBANG MURDAKA EKA JATI,Laki-laki
+105,BUDI EKA NURCAHYA,Laki-laki
+106,CATUR EDI WIDODO,Laki-laki
+107,Danang Lelono,Laki-laki
+108,DEDI MARDIANSYAH,Laki-laki
+109,DJOKO UNTORO SUWARNO,Laki-laki
+110,DONI ANDRA,Laki-laki
+111,DWI PURWANTI,Perempuan
+112,Dwi Satya Palupi,Perempuan
+113,Fahru Nurosyid,Laki-laki
+114,Fuad Anwar,Laki-laki
+115,HARI WISODO,Laki-laki
+116,HERI SUGITO,Laki-laki
+117,HIDEN,Laki-laki
+118,JAMIDUN,Laki-laki
+119,Junaidi,Laki-laki
+120,AGRIANTI KOMALASARI,Perempuan
+121,AGUS KUBERTEIN,Laki-laki
+122,ANAS FARKHANI,Laki-laki
+123,ATIKA JAUHARIA HATTA,Perempuan
+124,BOGAT AGUS RIYONO,Laki-laki
+125,CAHYANINGSIH,Perempuan
+126,Dedhy Sulistiawan,Laki-laki
+127,DENI DARMAWATI,Perempuan
+128,DENIES PRIANTINAH,Perempuan
+129,DEWI KUSUMA WARDANI,Laki-laki
+130,DYAH EKAARI SEKAR JATININGSIH,Perempuan
+131,EKO YULIANTO,Laki-laki
+132,ELLINE CHANDRA,Perempuan
+133,ETIK KRESNAWATI,Perempuan
+134,EVI MARIA,Perempuan
+135,FAJAR GUSTIAWATY DEWI,Perempuan
+136,FARICHAH,Perempuan
+137,FAUZAN MISRA,Laki-laki
+138,FAUZI,Laki-laki
+139,FELIX JONI DARJOKO,Laki-laki
+140,ADJI PRATIKTO,Laki-laki
+141,AGUSTINUS EDI SUTARTA,Laki-laki
+142,ALBERTUS GIRIK ALLO,Laki-laki
+143,AMBYA,Laki-laki
+144,ARINTOKO,Laki-laki
+145,ARISTA PRIYO ADI,Laki-laki
+146,ARIVINA RATIH YULIHAR TAHER,Perempuan
+147,AZANSYAH,Perempuan
+148,Bayu Kharisma,Laki-laki
+149,DIAH SETYORINI G,Perempuan
+150,DUDDY ROESMARA DONNA,Laki-laki
+151,DUMAIRY,Laki-laki
+152,ENDAH SAPTUTYNINGSIH,Perempuan
+153,Endang Taufiqurahman,Laki-laki
+154,EVA ERVANI,Perempuan
+155,FATHIMATI ZAHRA,Perempuan
+156,IDA BUDIARTY,Laki-laki
+157,INAYATI NURAINI DWIPUTRI,Perempuan
+158,LIDIA KUNTJAHJANINGTYAS,Perempuan
+159,LIES MARIA HAMZAH,Perempuan
+160,Rini Dwiastuti,Perempuan
+161,ROSITA MELANNISA,Perempuan
+162,Yohanes Martono,Laki-laki
+163,ABDUR ROFI,Laki-laki
+164,ADIP WAHYUDI,Laki-laki
+165,AGUS IWAN SANTOSO,Laki-laki
+166,AGUS JOKO PITOYO,Laki-laki
+167,AGUS SANTOSO,Laki-laki
+168,AJAY CHANDRA LAL,Laki-laki
+169,AMIRUDDIN,Laki-laki
+170,AMIRUDIN TUMULO,Laki-laki
+171,AMRI LA BANTASE,Laki-laki
+172,ANI KHULIAH,Perempuan
+173,ANTON KAHARU,Laki-laki
+174,APRIJANTO,Laki-laki
+175,ASKAR,Laki-laki
+176,ASTRI HANJARWATI,Perempuan
+177,BAMBANG HERYANTO,Laki-laki
+178,BAMBANG SYAEFUL HADI,Laki-laki
+179,BASKORO ROCHADDI,Laki-laki
+180,BOWO SUSILO,Laki-laki
+181,BUDI PRASETYO SAMADIKUN,Laki-laki
+182,CAHYADI SETIAWAN,Laki-laki
+183,AHMAD BAHIEJ SHMHUM,Laki-laki
+184,AHMAD ZUHDI,Laki-laki
+185,ANY NUGROHO SHMH,Laki-laki
+186,BAHARUDDIN ARITONANG,Laki-laki
+187,DYAH HAPSARI PRANANINGRUM,Perempuan
+188,ELISABETH SUNDARI SHMHUM,Perempuan
+189,ENNY AGUSTINA,Perempuan
+190,EVI PURWANTI,Perempuan
+191,FAISAL,Laki-laki
+192,FEBRYANTI SUBAKTININGSIH,Perempuan
+193,HARRY PURWANTO SHMH,Laki-laki
+194,HENRICUS SANYOTOHADISHMH,Laki-laki
+195,HENRIKUS RENJAAN,Laki-laki
+196,HOLLIA HUDAYA,Perempuan
+197,JOKO SUPRIYANTO,Laki-laki
+198,KARIM MERUA,Laki-laki
+199,KARTONO,Laki-laki
+200,LUDIYANTO SHMMMHUM,Laki-laki
+201,MARWAN,Laki-laki
+202,MELKIANUS NDAOMANU,Laki-laki
+203,ARJATI WAHIDAH DAUD,Perempuan
+204,"AYI DJEMBARSARI, DR, MARS",Perempuan
+205,FREDERIK BATTI SORRING DRS MM,Laki-laki
+206,HARIYADI DR SPPA,Laki-laki
+207,"INDAH SRI ANGGARINI, DR, MARS",Perempuan
+208,"LUKMAN MANSUR, DR, SPB KBD",Laki-laki
+209,MALIYAH MADIYAN DR SU,Perempuan
+210,MUHAMMAD ISHAQ HARDIANSYAH,Laki-laki
+211,MUHAMMAD LUTFI DR SPOG,Laki-laki
+212,RUSMINI,Perempuan
+213,"SARIASIH ARUMDATI, DR MARS",Perempuan
+214,"WRESTI INDRIARI, DR, MM",Perempuan
+215,ALMA LINGGAR JONARTA,Perempuan
+216,Andi Triawan,Laki-laki
+217,Archadian Nuryanti,Perempuan
+218,BAMBANG PRIYONO,Laki-laki
+219,BEDJO SANTOSO,Laki-laki
+220,Dewi Elianora,Perempuan
+221,Dyah Irnawati,Perempuan
+222,Ema Mulyawati,Perempuan
+223,Endang Wahyuningtyas,Perempuan
+224,Erlina Sih Mahanani,Perempuan
+225,Harsini,Perempuan
+226,HERASTUTI SULISTYANI,Perempuan
+227,MIFTAH TRI ABADI,Laki-laki
+228,Quroti A'yun,Perempuan
+229,Retno Ardhani,Perempuan
+230,RINA LUCIAWATY,Perempuan
+231,RINALDI BUDI UTOMO,Laki-laki
+232,Rurie Ratna Shantiningsih,Perempuan
+233,Sri Suparwitri,Perempuan
+234,Sri Widiati,Perempuan
+235,ABDUL AZIS,Laki-laki
+236,Agus Sukarno,Laki-laki
+237,AGUS WAHYUDI,Laki-laki
+238,Agustinus Murdjoko,Laki-laki
+239,Ai Yuniarsih,Perempuan
+240,Alexander Markus Moßbrucker,Laki-laki
+241,Alpian,Laki-laki
+242,ARDITYO HENDI PRASTOWO,Laki-laki
+243,Ari Kusbiantoro,Laki-laki
+244,ASEP ROHANDI,Laki-laki
+245,Asri Insiana Putri,Perempuan
+246,Aswandi,Laki-laki
+247,BATSEBA ALFONSINA SURIPATTY,Perempuan
+248,Budiman Achmad,Laki-laki
+249,Dewi Retna Indrawati,Perempuan
+250,DIYAH KARTIKASARI,Perempuan
+251,Doni Prabowo,Laki-laki
+252,DONY RACHMANADI,Laki-laki
+253,Dyah Ethika Noehdijati,Perempuan
+254,Eko Novi Setiawan,Laki-laki
+255,ABDUL HARIS RANGKUTI,Laki-laki
+256,Achmad Solichin,Laki-laki
+257,ADI NUGROHO,Laki-laki
+258,AGUS MULYANTO,Laki-laki
+259,Agus Sihabuddin,Laki-laki
+260,AJI SUPRIYANTO,Laki-laki
+261,AMIR FATAH SOFYAN,Laki-laki
+262,Anak Agung Istri Ngurah Eka Karyawati,Perempuan
+263,Anastasia Rita Widiarti,Perempuan
+264,Andi Dharmawan,Laki-laki
+265,ANDI SUNYOTO,Laki-laki
+266,ANIFUDDIN AZIS,Laki-laki
+267,Anindita Septiarini,Perempuan
+268,ANITA AHMAD KASIM,Perempuan
+269,ARIEF ANDY SOEBROTO,Laki-laki
+270,ARIEF WIBOWO,Laki-laki
+271,Aris Puji Widodo,Laki-laki
+272,ARMADYAH AMBOROWATI,Perempuan
+273,ASLAN ALWI,Laki-laki
+274,ASTI DWI IRFIANTI,Perempuan
+275,WIKA AVELINO RUMBIAK,Perempuan
+276,AGASTYA,Laki-laki
+277,ANDRIYANI,Laki-laki
+278,ANIEK HINDRAYANI,Perempuan
+279,ANTON AGUS SETYAWAN,Laki-laki
+280,ARIPIN AHMAD,Laki-laki
+281,ARNI SUWANTI,Perempuan
+282,ARTHUR SITANIAPESSY,Laki-laki
+283,BAGUS SURIPTO,Laki-laki
+284,CAECILIA WAHYU ESTINING RAHAYU,Perempuan
+285,DEVANI LAKSMI INDYASTUTI,Perempuan
+286,DIAH AYU MARTENGSARI,Perempuan
+287,DIAH RETNO WULANDARU,Perempuan
+288,Dien Mardhiyah,Perempuan
+289,Dwi Irawati,Perempuan
+290,DWITA DARMAWATI,Perempuan
+291,ELING BANGUN WAHYUDI,Laki-laki
+292,ERNIE HENDRAWATY,Perempuan
+293,FADHLIAH M ALHADAR,Perempuan
+294,FERNANDO J SITOHANG,Laki-laki
+295,FITRI SANTI,Perempuan
+296,Agus Wijanarka,Laki-laki
+297,AGUSTINUS PAMUDJI RAHARDJO,Laki-laki
+298,Aldila Din Pangawikan,Laki-laki
+299,Anny Yanuriati,Perempuan
+300,ATINA RAHMAWATI,Perempuan
+301,Baiq Rani Dewi Wulandani,Perempuan
+302,ELLY KURNIAWATI,Perempuan
+303,Enny Purwati Nurlaili,Perempuan
+304,FATCHUL ANAM NURLAILI,Laki-laki
+305,Fatma Zuhrotun Nisa',Perempuan
+306,ICHDA CHAYATI,Perempuan
+307,ISTI HANDAYANI,Perempuan
+308,KUNTJAHJAWATI,Perempuan
+309,LA DJADI SIHARIS,Laki-laki
+310,Lutfi Suhendra,Laki-laki
+311,MAHERAWATI,Perempuan
+312,MARDHATILLAH,Perempuan
+313,MARGARETHA TUTI SUSANTI,Perempuan
+314,Maria Ulfah,Perempuan
+315,Mercy Irda Riantiny Taroreh,Perempuan
+316,ABDI,Laki-laki
+317,AGUS HERU WIDODO,Laki-laki
+318,AGUSTINA BIDARTI,Perempuan
+319,Amarullah,Laki-laki
+320,Ananti Yekti,Perempuan
+321,ANDRIARTI KUSUMAWARD,Perempuan
+322,Andy Wijanarko,Laki-laki
+323,ANI MUANI,Perempuan
+324,Aris Slamet Widodo,Laki-laki
+325,Asrul,Laki-laki
+326,Aulia Nusantara,Laki-laki
+327,BAGUS PRAMUSINTHO,Laki-laki
+328,BOEDI SANTOSO,Laki-laki
+329,DHANANG EKA PUTRA,Laki-laki
+330,DWI AULIA PUSPITA N,Perempuan
+331,ENDANG DEWI MURRINIE,Perempuan
+332,Ervia Yudiati,Perempuan
+333,Erwan Wahyudi,Laki-laki
+334,Fredy Lala,Laki-laki
+335,GAMAL MUSTIK SAMADAN,Laki-laki
+336,Agus Susilo,Laki-laki
+337,Agustinah Setyaningrum,Perempuan
+338,Ahmad Pramono,Laki-laki
+339,Ahmad Subhan,Laki-laki
+340,Amrih Prasetyo,Laki-laki
+341,ARIF NINDYO KISWORO,Laki-laki
+342,Baginda Iskandar Moeda Tampoebolon,Laki-laki
+343,BAHRUN IR MP,Laki-laki
+344,Bambang Hartoyo,Laki-laki
+345,Bambang Suhartanto,Laki-laki
+346,DEKI ZULKARNAIN,Laki-laki
+347,Dina Tri Marya,Perempuan
+348,DWI WULANDARI,Perempuan
+349,Efka Aris Rimbawanto,Laki-laki
+350,Elly Tugiyanti,Perempuan
+351,Emmy Susanti,Perempuan
+352,Endang Widiastuti Retno Kawuri,Perempuan
+353,Engkus Ainul Yakin,Laki-laki
+354,HENDRA KOESMARA,Laki-laki
+355,Herly Evanuarini,Perempuan
+356,ANAS URBANINGRUM,Laki-laki
+357,Bambang Widiyahseno,Laki-laki
+358,Caroline Paskarina,Perempuan
+359,CORNELIS LAY,Laki-laki
+360,DAFRI,Laki-laki
+361,DEDE SRI KARTINI,Perempuan
+362,DIAN EKA RAHMAWATI,Perempuan
+363,DYAH ESTU KURNIAWATI,Perempuan
+364,Endang Sulastri,Perempuan
+365,GANJAR RAZUNI,Laki-laki
+366,GRACE LESTARIANA WONODADI,Perempuan
+367,GUNO TRI TJAHJOKO,Laki-laki
+368,I GUSTI NGURAH PUTRA,Laki-laki
+369,ISMIYATUN,Perempuan
+370,IVA RACHMAWATI,Perempuan
+371,JAKA TRIWIDARYANTA,Laki-laki
+372,KANYAPAK YUMUANG,Perempuan
+373,KARY MARJUNI MARUNDUH,Laki-laki
+374,M ALFAN ALFIAN MAHYUDIN,Laki-laki
+375,M SARMIN S ADAM,Laki-laki
+376,ABDUL RAHMAN SHALEH,Laki-laki
+377,AGNIS BINTI SOMBULING,Perempuan
+378,AGUSWAN KHOTIBUL UMAM,Laki-laki
+379,ALI RIDHO,Laki-laki
+380,ALOYSIUS LUKAS SOENARJO SUSILO,Laki-laki
+381,ANY NURHAYATY,Perempuan
+382,Arri Handayani,Perempuan
+383,AZLIZAMANI BIN ZUBIR SALIM,Laki-laki
+384,BETTY YULIANI SILALAHI,Perempuan
+385,DESVI YANTI MOCHTAR,Perempuan
+386,ELOK HALIMATUS SA DIYAH,Perempuan
+387,ENY PURWANDARI,Perempuan
+388,ERIKA SETYANTI KUSUMAPUTRI,Perempuan
+389,ESTI HAYU PURNAMANINGSIH,Perempuan
+390,EVA LATIPAH,Perempuan
+391,FAKHER NM KHALILI,Laki-laki
+392,FATHUL LUBABIN NUQUL,Laki-laki
+393,FRIKSON CHRISTIAN,Laki-laki
+394,HETTI RAHMAWATI,Perempuan
+395,I MADE RUSTIKA,Laki-laki
+396,Andreas Wahyu Krisdiarto,Laki-laki
+397,Asep Nurhikmat,Laki-laki
+398,ASNA MUSTOFA,Laki-laki
+399,Dhian Herdhiansyah,Laki-laki
+400,Dyah Susilokarti,Perempuan
+401,IRAWADI,Laki-laki
+402,LUKMAN HIDAYAT,Laki-laki
+403,MARELI TELAUMBANUA,Laki-laki
+404,MOHAMMAD AMIN,Laki-laki
+405,NIKODEMUS PPE NAINITI,Laki-laki
+406,NOVITA ERMA KRISTANTI,Perempuan
+407,RETNO KEKSI WULANDARI,Perempuan
+408,RIDWAN,Laki-laki
+409,SAPTO KUNCORO,Laki-laki
+410,Sigit Triwahyudi,Laki-laki
+411,Siti Suharyatun,Perempuan
+412,SUGENG SUGIHARTO,Laki-laki
+413,Warkoyo,Laki-laki
+414,Yus Witdarko,Laki-laki
+415,ABDUL ARIS,Laki-laki
+416,ABE DAKI,Laki-laki
+417,ACHMED SUKENDRO,Laki-laki
+418,ADI SUTRISNO,Laki-laki
+419,ADIB SOFIA,Perempuan
+420,AFI FADLILAH,Perempuan
+421,AGUS RIDWAN,Laki-laki
+422,AGUSTINA DEWI SETYARI,Perempuan
+423,AGWIN DEGAF,Laki-laki
+424,AKHMAD K,Laki-laki
+425,ALBERTUS HERIYANTO,Laki-laki
+426,ALI BADRUDIN,Laki-laki
+427,ALI FAUZI,Laki-laki
+428,ALI ROSDIN,Laki-laki
+429,ANDARU RATNASARI,Perempuan
+430,ANDI HARIS PRABAWA,Laki-laki
+431,ANTONIUS SUPARNO,Laki-laki
+432,ANWAR,Laki-laki
+433,ARI WULANDARI,Perempuan
+434,ARIF BUDIMAN,Laki-laki
+435,Achmad Murtafi Haris,Laki-laki
+436,AGUSTINUS PAT MADYANA,Laki-laki
+437,AHMAD SALEHUDIN,Laki-laki
+438,AMADU BAH,Laki-laki
+439,Amanah,Perempuan
+440,ANAESTHASIA SUZANNA M BESSIE,Perempuan
+441,ANIEK HANDAJANI,Perempuan
+442,ASKURI,Laki-laki
+443,DEDE SYARIF,Laki-laki
+444,DEWI CAHYA AMBARWATI,Perempuan
+445,EBRIMA SARR,Laki-laki
+446,FAHRUR ROZI,Laki-laki
+447,Fazlul Rahman,Laki-laki
+448,Hariawan Adji,Laki-laki
+449,Laila Kholid Alfirdaus,Perempuan
+450,Le Ngoc Bich Ly,Perempuan
+451,LEMWANG CHUHWANGLIM,Laki-laki
+452,LIDYA KAMBO TANDIRERUNG,Perempuan
+453,M ARIS ROFIQI,Laki-laki
+454,M ENDY SAPUTRO,Laki-laki
+455,ACHMAD ZAHRUDDIN,Laki-laki
+456,AFDAL MAKKURAGA PUTR,Laki-laki
+457,AFRIZAL,Laki-laki
+458,AGUS SRIYANTO,Laki-laki
+459,AGUS SUKASNO,Laki-laki
+460,AGUS SUSARSO,Laki-laki
+461,ANDI FAISAL,Laki-laki
+462,ANDIKA PANDU PURAGABAYA,Laki-laki
+463,ARDIAN INDRO YUWONO,Laki-laki
+464,ARIF WIBAWA,Laki-laki
+465,ASEP ABDUL SAHID,Laki-laki
+466,BAMBANG SUKMA WIJAYA,Laki-laki
+467,BASLIR RUDOLF DJAMAL,Laki-laki
+468,CHRISTANTO PUDJIRAHARDJO,Laki-laki
+469,DIAN ARYMAMI,Perempuan
+470,DJOKO LELONO,Laki-laki
+471,DJOKO SANTOSO,Laki-laki
+472,EDWI ARIEF SOSIAWAN,Laki-laki
+473,EMILIA BASSAR,Perempuan
+474,ENY SUSILOWATI,Perempuan
+475,ANI WIJAYANTI,Perempuan
+476,AWALUDIN NUGRAHA,Laki-laki
+477,AYU HELENA CORNELLIA,Perempuan
+478,BAKRI,Laki-laki
+479,BAMBANG SUHARTO,Laki-laki
+480,CHONDRO SURYONO,Laki-laki
+481,DERIA ADI WIJAYA,Laki-laki
+482,DESTHA TITI RAHARJANA,Laki-laki
+483,DEWI TURGARINI,Perempuan
+484,ERRY SUKRIAH,Perempuan
+485,FITRI ABDILLAH ADIATMAKA,Laki-laki
+486,GS VICKY LUMENTUT,Laki-laki
+487,HERIANI,Perempuan
+488,Himawan Brahmantyo,Laki-laki
+489,I NYOMAN SUKMA ARIDA,Laki-laki
+490,Josef Alfonsius Gadi Djou,Laki-laki
+491,JPA RUNTUWENE,Perempuan
+492,LASTIANI WARIH WULAN,Perempuan
+493,LUCINDA,Perempuan
+494,MARIA TRI WIDAYATI,Perempuan
+495,ABDULLATIEF SUAERI,Laki-laki
+496,AGUS PURWO WICAKSONO,Laki-laki
+497,BERNARDUS WIBOWO SULIANTORO,Laki-laki
+498,CLEMENTIA CORRY RATNA K,Perempuan
+499,Danang Sri Wibowo Riyanto,Laki-laki
+500,DAROL ARKUM,Laki-laki
+501,DEWANTI,Perempuan
+502,EDY SUSANTO,Laki-laki
+503,EMIL KARMILA,Perempuan
+504,JOKO SUROSO,Laki-laki
+505,KIRNALI M YUS,Laki-laki
+506,KUNCORO CAHYO AJI,Laki-laki
+507,MAHDITIA PARAMITA,Perempuan
+508,MARDIN MANURUNG,Laki-laki
+509,MAULIATE SIMORANGKIR,Laki-laki
+510,MOHAMMAD USWANAS,Laki-laki
+511,MUHAMAD SALEH,Laki-laki
+512,MUHAMMAD ZAENUDDIN,Laki-laki
+513,NICOLAAS E KUAHATY,Laki-laki
+514,Paula Theresia Ekowati Purwaning Utami,Perempuan
+515,Elen Tantjaro,Perempuan
+516,A BUDI PRASETYO,Laki-laki
+517,Abdullah,Laki-laki
+518,ABDULLOH,Laki-laki
+519,Abu Masykur,Laki-laki
+520,ADDY RACHMAT,Laki-laki
+521,Ady Mara,Laki-laki
+522,Agung Abadi Kiswandono,Laki-laki
+523,AHMAD SUSENO,Laki-laki
+524,Alimin,Laki-laki
+525,AMANATIE,Perempuan
+526,AMARIA,Perempuan
+527,ANI SETYOPRATIWI,Perempuan
+528,ANIS SHOFIYANI,Perempuan
+529,ARI WIDIYANTORO,Laki-laki
+530,Aris Mukimin,Laki-laki
+531,Budi Hastuti,Perempuan
+532,BUSRONI,Laki-laki
+533,Charles Banon,Laki-laki
+534,Choiril Azmiyawati,Perempuan
+535,Choirul Amri,Laki-laki
+536,Abdul Ghoffar,Laki-laki
+537,ACHMAD LUTFI,Laki-laki
+538,ADIANTO,Laki-laki
+539,ASAL WAHYUNI ERLIN MULYADI,Perempuan
+540,ASWIN EKA ADHI,Laki-laki
+541,BAMBANG WICAKSONO TRIANTORO,Laki-laki
+542,BARTHOLOMIUS PADATU,Laki-laki
+543,BENING HADILINATIH,Perempuan
+544,D PRIYO SUDIBYO,Laki-laki
+545,DEDEN DANI SALEH,Laki-laki
+546,Endro Winarno,Laki-laki
+547,INDRO HERRY MULYANTO,Laki-laki
+548,JUNAIDI,Laki-laki
+549,MARITA AHDIYANA,Perempuan
+550,NIKOLAUS P RERESSY,Laki-laki
+551,NURUL ROPIKOH,Perempuan
+552,PETRUS UJE PALUE,Laki-laki
+553,R WIDODO TRIPUTRO,Laki-laki
+554,Retno Sunu Astuti,Perempuan
+555,RIZALI,Laki-laki
+556,AHASAN A SAADOON,Laki-laki
+557,AL SUTJIJANA,Laki-laki
+558,ALAN JALAL ABDULQADER,Laki-laki
+559,ARMAN,Laki-laki
+560,ATUN ISMARWATI,Perempuan
+561,BAMBANG SUPRIHATIN,Laki-laki
+562,Budi Warsito,Laki-laki
+563,BURHANUDIN ARIF NURNUGROHO,Laki-laki
+564,CATURIYATI,Perempuan
+565,CORI PITOY,Perempuan
+566,Di Asih I Maruddani,Perempuan
+567,DIAH JUNIA EKSI PALUPI,Perempuan
+568,Diari Indriati,Perempuan
+569,DIDIK KHUSNUL ARIF,Laki-laki
+570,Edy Widodo,Laki-laki
+571,Elmanani Simamora,Laki-laki
+572,Elvina Herawati,Perempuan
+573,EPHA DIANA SUPANDI,Perempuan
+574,ETI DWI WIRANINGSIH,Perempuan
+575,Firdaus Ubaidillah,Laki-laki
+576,ABDILLAH NUGROHO,Laki-laki
+577,Ans. Prawati Yuliantari,Perempuan
+578,CEISY NITA WUNTU,Perempuan
+579,DAHNIAR TH MUSA,Perempuan
+580,DIDIK MURWANTONO,Laki-laki
+581,EKAWATI MARHAENNY DUKUT,Perempuan
+582,ERNA CAHYAWATI,Perempuan
+583,ESMERALDAYANTI SOSRONEGORO,Perempuan
+584,FITRI RATNA NADIA,Perempuan
+585,FITRIA AKHMERTI PRIMASITA,Perempuan
+586,ISNAWATI LYDIA WANTASEN,Perempuan
+587,MERY BALANGO,Perempuan
+588,NUR SAKTININGRUM,Perempuan
+589,Rasiah,Perempuan
+590,Rudy,Laki-laki
+591,TRI SEDJATI,Perempuan
+592,WAHJU KUSUMAJANTI,Perempuan
+593,Yohanna Ivonne Meray,Perempuan
+594,ACE IWAN SURYAWAN,Laki-laki
+595,Cahya,Laki-laki
+596,Deni Setiawan,Laki-laki
+597,Eddy Pursubaryanto,Laki-laki
+598,Eko Supriyanto,Laki-laki
+599,I Nengah Mariasa,Laki-laki
+600,KUSWARSANTYO,Laki-laki
+601,LAKSMI KUSUMA WARDANI,Perempuan
+602,M DINU IMANSYAH,Laki-laki
+603,SUKAMSO,Laki-laki
+604,Supriaswoto,Laki-laki
+605,WADIYO,Laki-laki
+606,AGOENG NOEGROHO,Laki-laki
+607,AJAT JATNIKA,Laki-laki
+608,AKHMAD YAMIN,Laki-laki
+609,ANDRIAN WIRA SYAHPUTRA,Laki-laki
+610,AUDREY JULIA MARIA MAWEIKERE,Perempuan
+611,Dedi Azwardi,Laki-laki
+612,Dedy Irwandi,Laki-laki
+613,Dhanurseto Hadiprashada,Laki-laki
+614,DRAJAT WICAKSONO,Laki-laki
+615,Dwi Febrimeli,Perempuan
+616,DWI SISWANTO,Laki-laki
+617,Dwiningtyas Padmaningrum,Perempuan
+618,Eka Nor Taufik,Laki-laki
+619,Gontom Citoro Kifli,Laki-laki
+620,H M KHOLILI,Laki-laki
+621,Ita Kusuma Mahendrawati,Perempuan
+622,KRISDYATMIKO,Laki-laki
+623,La Mani,Laki-laki
+624,La Ode Mustafa Muchtar,Laki-laki
+625,M NAJIB HUSAIN,Laki-laki
+626,Sarmin,Laki-laki
+627,ADEN WIJDAN SYARIEF ZAIDAN,Laki-laki
+628,AGUS NURHADI,Laki-laki
+629,ANUGERAH TATEMA HAREFA,Laki-laki
+630,ARIE SUJITO,Laki-laki
+631,ARIEFA EFIANINGRUM,Perempuan
+632,ARIZAL MUTAHIR,Laki-laki
+633,DANANG PURWANTO,Laki-laki
+634,DESSY MARDHIAH,Perempuan
+635,DIAH PUSPANINGRUM,Perempuan
+636,DODDY SUMBODO SINGGIH,Laki-laki
+637,FAIDAH AZUZ,Perempuan
+638,Gunanto Surjono,Laki-laki
+639,HARMONA DAULAY,Perempuan
+640,IGNASIUS WELERUBUN,Laki-laki
+641,ILYYA MUHSIN,Laki-laki
+642,Jarot Santoso,Perempuan
+643,JUSAN HI YUSUF,Laki-laki
+644,KHOLID ZULFA,Laki-laki
+645,M RIZAL QOSIM,Laki-laki
+646,MOCHAMAD SODIK,Laki-laki
+647,ABDUL SYAKUR,Laki-laki
+648,AMIEN RUSDIUTOMO,Laki-laki
+649,ANGGUN FITRIAN ISNAWATI,Perempuan
+650,AUGUSTINUS SUJONO,Laki-laki
+651,BAMBANG PURNOMOSIDI DP,Laki-laki
+652,Bondhan Winduratna,Laki-laki
+653,DEDY SURYADI,Laki-laki
+654,"DWIJOKO PURBOHADI, ST MT",Laki-laki
+655,ENDAH SUDARMILAH,Perempuan
+656,FAKHRIY HARIO P,Laki-laki
+657,GUSTI AGUNG A PUTRI,Perempuan
+658,HERLINA JAYADIANTI,Perempuan
+659,HIDAYAT,Laki-laki
+660,I WAYAN ORDIYASA,Laki-laki
+661,IIS HAMSIR AYUB WAHAB,Laki-laki
+662,IMAM SANTOSO,Laki-laki
+663,INDRASTANTI RATNA W,Perempuan
+664,IR IDIAN MT,Laki-laki
+665,"IR SAMIADJI HERDJUNANTO, MSC",Laki-laki
+666,IR SUNGGU ANWAR ARITONANG,Laki-laki
+667,BILAL MARUF,Laki-laki
+668,IBNU HASYIM,Laki-laki
+669,MOHAMAD ANIS,Laki-laki
+670,MYO MIN TUN,Laki-laki
+671,Paike Htwe,Laki-laki
+672,SAW AUNG ZAW AYE,Laki-laki
+673,FAHMI CMD WIDODO,Laki-laki
+674,L M SABRI,Laki-laki
+675,"IGNATIUS LUDDY INDRA PURNAMA, MSC.",Laki-laki
+676,AGUNG SUGIHARTO,Laki-laki
+677,AKIDA MULYANINGTYAS,Perempuan
+678,AMIR HUSIN,Laki-laki
+679,ARDIAN NENGKODA,Laki-laki
+680,Ari Diana Susanti,Perempuan
+681,Arif Hidayat,Laki-laki
+682,ASTRILIA DAMAYANTI,Perempuan
+683,BREGAS SISWAHJONO TATAG S,Laki-laki
+684,Daniyanto,Laki-laki
+685,Deni Swantomo,Laki-laki
+686,DEWI SELVIA FARDHYANTI,Perempuan
+687,Diana,Perempuan
+688,DODI IRWANTO,Laki-laki
+689,DONI RAHMAT WICAKSO,Laki-laki
+690,DWI ARDIANA S,Perempuan
+691,EDY WIYONO,Laki-laki
+692,Eka Sari,Perempuan
+693,Erna Astuti,Perempuan
+694,Fadilah,Perempuan
+695,Heny Dewajani,Perempuan
+696,Dewi Puspitasari,Perempuan
+697,DWI HANDAYANI,Perempuan
+698,FX ARIF WAHYUDIANTO,Laki-laki
+699,HADI SAPUTRA,Laki-laki
+700,INDRESWARI SUROSO,Perempuan
+701,JOAQUIM DA COSTA,Laki-laki
+702,JOKO WINARNO,Laki-laki
+703,LELIZ GONZAGA FRAGA,Laki-laki
+704,LINDA WAHYUNI S,Perempuan
+705,MATHEUS M DWINANTO,Laki-laki
+706,NOVI MARLYANA,Perempuan
+707,OKTO DINARYANTO,Laki-laki
+708,RATIH SETYANINGRUM,Perempuan
+709,SENO DARMANTO,Laki-laki
+710,SUDARJA,Laki-laki
+711,SUPRIYONO,Laki-laki
+712,Abadi Dwi Saputra,Laki-laki
+713,ABDUL KADIR,Laki-laki
+714,AHMAD ANDI SOLAHUDI,Laki-laki
+715,Anas Puri,Laki-laki
+716,ANDREAS SUGIJOPRANOTO,Laki-laki
+717,Astuti Masdar,Perempuan
+718,BAMBANG SETIAWAN,Laki-laki
+719,BUDI KAMULYAN,Laki-laki
+720,CAHYONO IKHSAN,Laki-laki
+721,CHAIRUL MUHARIS,Laki-laki
+722,DEVI OKTAVIANA LATIF,Perempuan
+723,EDWARD NGII,Laki-laki
+724,ELSY ELISABETH HANGGE,Perempuan
+725,Endro Prasetyo Wahono,Laki-laki
+726,ERY SETIAWAN,Laki-laki
+727,FIVIE ELVIRA SIRAJUDIN,Perempuan
+728,GUNTUR NUGROHO,Laki-laki
+729,Gusti Made Oka,Laki-laki
+730,HENRY HARTONO,Laki-laki
+731,I Gusti Lanang Bagus Eratodi,Laki-laki
+732,Abdul Rahim Sya'ban,Laki-laki
+733,Affandy,Laki-laki
+734,Agus Darmawan,Laki-laki
+735,Ariana Sumekar,Perempuan
+736,Azir Alfanan,Laki-laki
+737,Hasanudin,Laki-laki
+738,Helina Helmy,Perempuan
+739,Heri Budi Cahyono,Laki-laki
+740,Joko Fery Yanto,Laki-laki
+741,L.M. Zainul,Laki-laki
+742,La Ode Peli,Laki-laki
+743,La Ode Yusman Muriman,Laki-laki
+744,LAODE MUH YONGKI TUSILOLIPU,Laki-laki
+745,Leonard Fernando Purba,Laki-laki
+746,Lis Sarwi Hastuti,Perempuan
+747,Lusia Salmawati,Perempuan
+748,Mahdinursyah,Laki-laki
+749,Meilya Farika Indah,Perempuan
+750,Muchamad Rifai,Laki-laki
+751,Nenden Siti Komariah,Perempuan
+752,Achmad Fawaid,Laki-laki
+753,ACHMAD IZZUDDIN,Laki-laki
+754,ADI RIMBUN KUSUMA M,Laki-laki
+755,Adi Rimbun Kusuma Negara,Laki-laki
+756,Agnes Megy Takaendengan,Perempuan
+757,AGUS SUBEKTI,Laki-laki
+758,AHMAD FAUZI,Laki-laki
+759,Ahmad Jazuli,Laki-laki
+760,Ahmad Khotim Muzakka,Laki-laki
+761,Ahmad Lukman Nugraha,Laki-laki
+762,Ahmad Shofiyuddin Ichsan,Laki-laki
+763,AHSANU WIBOWO,Laki-laki
+764,AKHMAD MUSTAQIM,Laki-laki
+765,Al Haq Kamal,Laki-laki
+766,Ana Zahrotun Nihayah,Perempuan
+767,Anang Rikza,Laki-laki
+768,Andri Handayani,Perempuan
+769,Anwar Masduki,Laki-laki
+770,Apriline Widani,Perempuan
+771,Arda Syaifulaziz Elshabana,Laki-laki
+772,ADHITYA OKTA DWIPUTRA,Laki-laki
+773,Ageng Kaloko,Laki-laki
+774,AHMAD MAJEDI,Laki-laki
+775,Annisa Khoiriyah,Perempuan
+776,Ardian Elonard Purba,Laki-laki
+777,ARIZAL NUR H,Laki-laki
+778,Asmary Muis,Perempuan
+779,AULIA FUAD AFIAT,Perempuan
+780,AYDA NUR ALFIYAH,Perempuan
+781,Baso Amir,Laki-laki
+782,Danie Indra Yama,Perempuan
+783,DYAH SOFIANINGSIH,Perempuan
+784,Edy Purwanta,Laki-laki
+785,Eka Listia,Perempuan
+786,Erwan Saripudin,Laki-laki
+787,EVA ROSMALA,Perempuan
+788,Hangger Gahara Mawandha,Laki-laki
+789,HANNA SETYOWATI,Perempuan
+790,Hyankasu Adeca Pandyambika Fatista Sitaningtyas,Perempuan
+791,Ika Irmayanti,Perempuan
+792,Abdul Haris Faisal,Laki-laki
+793,Achmad Sunhaji,Laki-laki
+794,Adhitya Agri Putra,Laki-laki
+795,ADHYATMA PRATAMA,Laki-laki
+796,ADI CAHYO NURPRASETIYO,Laki-laki
+797,ADITYA KRISTIAWAN,Laki-laki
+798,Aditya Purwaningsih,Perempuan
+799,Afuan Fajrian Putra,Laki-laki
+800,AGUNG HARIJADI WIDHIANTORO S,Laki-laki
+801,Agung Setio Utomo,Laki-laki
+802,Agust Pratiwi Sidabutar,Laki-laki
+803,Aiaz Rajasa,Laki-laki
+804,AIDA,Perempuan
+805,AISYA SHEILLA FARINA NADIA,Perempuan
+806,AL FAUZI DAHLAN,Laki-laki
+807,ALEX JOHANES SIMAMORA,Laki-laki
+808,ALFI ANANSYAH PUTRA,Laki-laki
+809,Ali Riza Fahlevi,Laki-laki
+810,ALLAIN JOHANES RICHIE TIELUNG,Laki-laki
+811,Allam Nasrallah Abubakr,Laki-laki
+812,Ade Ikhsan Kamil,Laki-laki
+813,Ade Yusuf Ferudyn,Laki-laki
+814,Agnes Pranugrahaning Rismardiyanti,Perempuan
+815,Agus Heru Setiawan,Laki-laki
+816,Agus Yuliono,Laki-laki
+817,Ahmad Fauzan,Laki-laki
+818,AHMAD SYAUGI S HUM,Laki-laki
+819,Ahmad Syauqi,Laki-laki
+820,AINUR RAHIM,Laki-laki
+821,ANTIS TRI CAHYANI,Laki-laki
+822,Argoposo Cahyo Nugroho,Laki-laki
+823,Arif Rahman Hakim,Laki-laki
+824,ARIFIN,Laki-laki
+825,ARS ERWANTO UTOMO,Laki-laki
+826,Aryo Yudanto,Laki-laki
+827,ATHTHUR FITRI ADIATI,Perempuan
+828,Ayu Dipta Kirana,Perempuan
+829,Bahtiar Hairullah,Laki-laki
+830,Bakti Utama,Laki-laki
+831,BENEDIKTA JULIATRI W,Perempuan
+832,Agra Bayu Rahadi,Laki-laki
+833,Ahmad Hariri,Laki-laki
+834,APRIADI UJIARSO,Laki-laki
+835,Ari Mukti Wardoyo Adi,Laki-laki
+836,Aryani Wijayanti,Perempuan
+837,Ashar Murdihastomo,Laki-laki
+838,Baskoro Daru Tjahjono,Laki-laki
+839,Camella Sukma Dara,Perempuan
+840,Dewi Susanti,Perempuan
+841,Djaliati Sri Nugrahani,Perempuan
+842,Enny Sukasih,Perempuan
+843,Evi Novita,Laki-laki
+844,Ika Kusmiyati,Perempuan
+845,Ismail Lutfi,Laki-laki
+846,Isni Wahyuningsih,Perempuan
+847,Jauhari Chusbiantoro,Laki-laki
+848,Jhohannes Marbun,Laki-laki
+849,JUSMAN MAHMUD,Laki-laki
+850,Masyhudi,Laki-laki
+851,Mubarak A. Pampang,Laki-laki
+852,Aan Wahyuni Lestari,Perempuan
+853,Adam Whisnu Aji,Laki-laki
+854,Adimas Kristiadi,Laki-laki
+855,Aditya Hari Megayanto,Laki-laki
+856,ADITYA WAHYU FITRIATAMA,Laki-laki
+857,Adityo,Laki-laki
+858,Affrilyno,Laki-laki
+859,AGUS SANYOTO,Laki-laki
+860,AGUS SUSANTO,Laki-laki
+861,AHMAD HAEKAL ZAINAL ASIKIN,Laki-laki
+862,Ahmad Ibrahim Rahmani,Laki-laki
+863,AINUN NOVITA OKURISA,Perempuan
+864,Akbar Preambudi,Laki-laki
+865,Akbar Setiawan,Laki-laki
+866,ALBERTUS ARY BASUKI,Laki-laki
+867,Alim Bahri,Laki-laki
+868,Amalia Paramitha,Perempuan
+869,Amanda Naimufar Rengganis,Perempuan
+870,Anang Irawan,Laki-laki
+871,Andi Zulestari Z.,Perempuan
+872,Abdu Rohman,Laki-laki
+873,Abu Rahmat Ibrahim,Laki-laki
+874,ACHMAD FANANI MUHARROMI,Laki-laki
+875,Achmad Gazali,Laki-laki
+876,Adhi Nurcholis,Laki-laki
+877,Adi Karya,Laki-laki
+878,Adianto Aji Kurniawan,Laki-laki
+879,Afifah Nur Shobah,Perempuan
+880,Agatha Cecilia Maturbongs,Perempuan
+881,Ageng Ary Widodo,Laki-laki
+882,Agus Slamet,Laki-laki
+883,Agustinur,Perempuan
+884,Agustinus Toding Bua,Laki-laki
+885,Ahmad Mawardi,Laki-laki
+886,AHMAD NASRURIDLO,Laki-laki
+887,Ahmad Syarif,Laki-laki
+888,Aisyah Hadi Ramadani,Perempuan
+889,Akhmad Syakur,Laki-laki
+890,Alanindra Saputra,Laki-laki
+891,Aldrin Sakti Sirandan,Laki-laki
+892,Aam Amelia,Perempuan
+893,Abajaidun Mahulauw,Laki-laki
+894,Agung Dian Kharisma,Laki-laki
+895,Agus Purnomohadi,Laki-laki
+896,AGUSTINA ARI HANDAYANI,Perempuan
+897,Ajeng Dara Pramita,Perempuan
+898,Aldila Grandis Eko Saputro,Laki-laki
+899,Alfitri Yuni Astuti Achmad,Perempuan
+900,ALUISIA EDI HARWATI,Perempuan
+901,Amiqatul Fikriyah,Perempuan
+902,Andita Ayu Mandasari,Perempuan
+903,Anggun Feranisa,Perempuan
+904,Anika Prastyowati,Perempuan
+905,ANJAR RUSPITA SARI,Perempuan
+906,Annisa Nur Lathifah,Perempuan
+907,ARI DARMAWAN,Laki-laki
+908,ARI MURTI TM,Laki-laki
+909,Arif Bimantara,Laki-laki
+910,Arung Desah Prabalaksa,Laki-laki
+911,Asista Fatma Kusuma,Perempuan
+912,Afandi,Laki-laki
+913,ALEXANDER PIPIANA,Laki-laki
+914,Arum Kadarini,Perempuan
+915,Asep Herdiana,Laki-laki
+916,Asih Kusumaningsih,Perempuan
+917,DEWIE HARTATI HANDAYANI,Perempuan
+918,DWITREE DESFAJERIN,Perempuan
+919,Ekalia Yusiana,Perempuan
+920,Eni Soekarwati,Perempuan
+921,Fahrurozi,Laki-laki
+922,Fatkhiyah Rohmah,Perempuan
+923,GALUH AJENG PRAMESTI,Perempuan
+924,Galuh Hangganingraras Eko Akoso,Perempuan
+925,Gilang Wirakusuma,Laki-laki
+926,I Putu Eka Wijaya,Laki-laki
+927,Isyaturriyadhah,Perempuan
+928,Kanti Wahyuning Astuti,Perempuan
+929,Miriama Ditikau Ketedromo,Perempuan
+930,Nanang Kusuma Mawardi,Laki-laki
+931,NANDIKA AISYA PRATIW,Perempuan
+932,Abdillah Khamdana,Laki-laki
+933,Abdul Aziz Zamroni,Laki-laki
+934,Abdul Hadi,Laki-laki
+935,ABDUL HAKIM,Laki-laki
+936,Abdul Mufid,Laki-laki
+937,Abdurrahim,Laki-laki
+938,Abiwianto,Laki-laki
+939,ACHMAD TRI KURNIAWAN,Laki-laki
+940,Ade Marlina,Perempuan
+941,ADE NOVIANTI,Perempuan
+942,Adhitia Azhoera,Laki-laki
+943,Adi Darmawan Hariadi,Laki-laki
+944,Aditya Agus Satria,Laki-laki
+945,Aditya Iskandar Dwiatmaja,Laki-laki
+946,ADITYA RUSDANIAJI,Laki-laki
+947,ADITYA WIBISONO,Laki-laki
+948,Ady Chandra,Laki-laki
+949,Ady Kusuma Deni,Laki-laki
+950,Afifudin,Laki-laki
+951,Agnaten Manfield,Laki-laki
+952,ADE WIRASTUTI,Perempuan
+953,ADIB LAZUARDI,Laki-laki
+954,Andi Maulana K. Petta Lolo,Laki-laki
+955,Ani Kristiyani,Perempuan
+956,ANINDYA RAHMAWATI,Perempuan
+957,Arifianti Piskana Susilawati,Perempuan
+958,Asrianti,Perempuan
+959,Ayu Soraya,Perempuan
+960,DEASY NUR CHAIRIN H,Perempuan
+961,DENI SETIAWAN,Laki-laki
+962,DESNITA STEVANI,Perempuan
+963,DEWI LATIFATUL ILMA,Perempuan
+964,Dian Farida Ismyama,Perempuan
+965,Dian Nugraheni,Perempuan
+966,Dian Rehulina Santoso,Perempuan
+967,Dita Nururiyanie,Perempuan
+968,Dwi Putri Safnurbaiti,Perempuan
+969,DWI RETNA SUSILOWATI,Perempuan
+970,Dyah Atmi Tri Sukengtyas,Perempuan
+971,Dyah Handayani,Perempuan
+972,ABDURRAHMAN KADER,Laki-laki
+973,AGUS RIYADI,Laki-laki
+974,Ahmad Juhairi,Laki-laki
+975,AHMAD SULUKI,Laki-laki
+976,Alhani Erwan Dermawan,Laki-laki
+977,Althien John Pesurnay,Laki-laki
+978,Andhika Djalu Sembada,Laki-laki
+979,ANDI HERMAWAN,Laki-laki
+980,Andri Azis Putra,Laki-laki
+981,Andri Fransiskus Gultom,Laki-laki
+982,Annas Fitria Sa'adah,Perempuan
+983,Ardiyan Darutama,Laki-laki
+984,Arif Sugeng Widodo,Laki-laki
+985,Avrina Dwijayanti,Perempuan
+986,AZIZ ALBARI KAMALUDIN,Laki-laki
+987,Badrul Munir Chair,Laki-laki
+988,BAKTI KARNOAJI,Laki-laki
+989,Banu Prasetyo,Laki-laki
+990,Danial,Laki-laki
+991,DEDI IRAWAN,Laki-laki
+992,Ade Stepani Sudiyanto,Perempuan
+993,Adi Kurniawan,Laki-laki
+994,Agung Hermawan,Laki-laki
+995,Agustina Dyah Setyowati,Perempuan
+996,Agusutrisno,Laki-laki
+997,Ahmad Fauzi Pohan,Laki-laki
+998,Ahmad Mukhlis Anshori,Laki-laki
+999,AHSANASSUKRI AHSANI,Laki-laki
